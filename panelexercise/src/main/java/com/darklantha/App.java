@@ -1,9 +1,11 @@
 package com.darklantha;
 
+import org.springframework.stereotype.Component;
+
 /**
- * Hello world!
- *
+ * See README.md
  */
+@Component
 public class App 
 {
     public static void main( String[] args )
